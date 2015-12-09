@@ -25,7 +25,7 @@
     "ejs": "0.6.1",
     "express": "2.5.6",
     "feedparser": "0.16.6",
-    "fibers": "1.0.1",
+    "fibers": "1.0.8",
     "firelogger": "0.1.0",
     "hirelings": "0.4.3",
     "http-proxy": "0.8.1",
