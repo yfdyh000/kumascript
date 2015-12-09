@@ -10,8 +10,8 @@
   },
   "main": "./lib/kumascript/index",
   "scripts": {
-    "start": "./run.js",
-    "test": "./node_modules/.bin/nodeunit tests"
+    "start": "node run.js",
+    "test": "node node_modules/.bin/nodeunit tests"
   },
   "engines": {
     "node": "0.10.26",
