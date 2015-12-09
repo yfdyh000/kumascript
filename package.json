@@ -14,7 +14,8 @@
     "test": "./node_modules/.bin/nodeunit tests"
   },
   "engines": {
-    "node": "0.10.26"
+    "node": "0.10.26",
+    "npm": "2.7.4"
   },
   "directories": {
     "lib": "./lib"
