@@ -375,6 +375,9 @@ if (output.hasOwnProperty(obj) && typeof metrics[obj] != 'undefined' && metrics[
 
     var result = output[obj];
     switch(env.locale) {
+    "zh-CN":
+        amount = "找到 " + metrics[obj].counter + " 个页面。";
+        break;
     default:
         amount = "Found " + metrics[obj].counter + " pages.";
         break;
