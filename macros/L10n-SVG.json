@@ -11,7 +11,7 @@
     },
     "info_in_preview_not_available": {
         "en-US": "SVG info in preview not available",
-        "en-US": "预览模式下 SVG 信息不可用",
+        "zh-CN": "预览模式下 SVG 信息不可用",
         "de": "SVG-Info in der Vorschau nicht verfügbar"
     },
     "permittedContent": {
